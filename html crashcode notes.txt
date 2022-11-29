@@ -1,0 +1,10 @@
+Block element starts on a new line and takes the full width avaialble 
+Inline elements do not start on a new line and take only the necessary width
+Inline elements are <span> <a> <button>
+Block  elements <div> <h1-h6> <p>
+
+new tab for a href target="_blank" e.g <a href="https://www.google.com" target="_blank">Home</a>
+./ for cmd for folders for images 
+../ cmd if folder is within main folder for images 
+Span is used in when to change colours of the words in the forms 
+<hr> tag is used for horizontal line to space through elements 
